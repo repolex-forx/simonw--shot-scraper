@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/shot-scraper/commit/760c11449fd3ceb2132ca1e67c70a53bde32b56b",
       "git:hexsha": "760c11449fd3ceb2132ca1e67c70a53bde32b56b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.12"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.12",
+      "repolex:parsedAt": "2026-10-12T16:08:45.456555+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/shot-scraper/commit/f4149e14f477c8bdeca2f59721231d505edf768a",
